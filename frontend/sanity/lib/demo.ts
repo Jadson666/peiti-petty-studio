@@ -13,31 +13,7 @@ export const description = [
         _key: "4a58edd077880",
         _type: "span",
         marks: [],
-        text: "A statically generated blog example using ",
-      },
-      {
-        _key: "4a58edd077881",
-        _type: "span",
-        marks: ["ec5b66c9b1e0"],
-        text: "Next.js",
-      },
-      {
-        _key: "4a58edd077882",
-        _type: "span",
-        marks: [],
-        text: " and ",
-      },
-      {
-        _key: "4a58edd077883",
-        _type: "span",
-        marks: ["1f8991913ea8"],
-        text: "Sanity",
-      },
-      {
-        _key: "4a58edd077884",
-        _type: "span",
-        marks: [],
-        text: ".",
+        text: "每日精選限時優惠、折扣碼與好康情報，一站掌握全網最划算的優惠，省錢購物就上【Peiti Petty】配你配你！",
       },
     ],
     markDefs: [
